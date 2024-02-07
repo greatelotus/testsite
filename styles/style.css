@@ -1,0 +1,35 @@
+html {
+  font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family:'Protest Revolution', sans-serif;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color:#EC08C2;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #E6E6B6;
+  padding: 0 20px 20px 20px;
+  border: 5px solid rgb(233, 6, 172);
+}
+h1 {
+  margin: 0;
+  padding: 60px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
